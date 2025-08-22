@@ -146,11 +146,18 @@ Data Caveats
 
 - Coverage: Data spans 2010–2024, but not all countries or years are represented. The analysis emphasizes year-on-year and cross-country patterns where data is      available.
 
-- Risk definition: “High Risk” countries are flagged strictly based on observed food inflation rates—no subjective or qualitative classification.
+- Risk definition: “High Risk” countries are flagged strictly based on observed food inflation rates, no subjective or qualitative classification.
 
 - Dashboard interactivity: The screenshots shown here represent a static view of the report. The actual Power BI dashboard is fully interactive, allowing users to   explore the data dynamically using slicers and filters.
 
   **************************************************************************************************************
 
+Key Takeaway
+---------------
+
+When inflation spikes, not everyone feels it the same way.
+This report shows that food inflation is a global issue, but the real damage is highly concentrated in a small set of developing countries.
+For these nations, inflation isn’t just an economic metric, it’s a direct threat to food security and basic stability.
+If you care about global risk, track food prices as closely as you track inflation rates.
 
 
